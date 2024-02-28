@@ -1,0 +1,8 @@
+selenium\pageobjects\OrderPage.class
+selenium\utilities\AbstractComponents.class
+selenium\pageobjects\CartPage.class
+selenium\pageobjects\CheckoutPage.class
+selenium\pageobjects\ConfirmationPage.class
+selenium\pageobjects\LogInPage.class
+selenium\resources\ExtentReportsNG.class
+selenium\pageobjects\ProductCatalogue.class
