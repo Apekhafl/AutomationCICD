@@ -18,6 +18,7 @@ public class ErrorValidation extends BaseTest {
 		lp.setLogin("apex@gmail.com", "Apex1995");
 		AssertJUnit.assertEquals("Incorrect email or password.", lp.getErrormsg());
 		System.out.println(lp.getErrormsg());
+		System.out.println(lp.getErrormsg());
 	}
 
 	@Test
