@@ -43,6 +43,7 @@ public class CheckoutPage extends AbstractComponents {
 		scroll();
 		Thread.sleep(1000);
 		placeorder.click();
+                System.out.println("*******************");
 		ConfirmationPage confirmpage = new ConfirmationPage(driver);
 		return confirmpage;
 	}
